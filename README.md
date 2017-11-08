@@ -9,15 +9,17 @@ Code for the paper:
 * Pytorch
 
 ## Usage
-* test script of the best model: test.sh
-* training script of the best model: train.sh
+* tar xzvf data.tar.gz
+* test the best model: bash test.sh
+* download glove embedding to replace embed/glove.6B.300d.txt http://nlp.stanford.edu/data/glove.6B.zip
+* training the best model: bash train.sh
 
 ## Acknowledgement
 * The code is adapted from OpenNMT (https://github.com/OpenNMT/OpenNMT-py) and Pytorch language model example (https://github.com/pytorch/examples/tree/master/word\_language\_model)
-* THe code to highlight informative words (Figure 1 in the paper) is available at https://gist.github.com/ihsgnef/f13c35cd46624c8f458a4d23589ac768
+* The code to highlight informative words (Figure 1 in the paper) is available at https://gist.github.com/ihsgnef/f13c35cd46624c8f458a4d23589ac768
 
 ## Contact
-* Please contact Qizhe Xie (qizhex@cs.cmu.edu) if you have questions
+* Please contact Qizhe Xie (qizhex AT cs cmu edu) if you have questions
 
 ## License
 MIT
