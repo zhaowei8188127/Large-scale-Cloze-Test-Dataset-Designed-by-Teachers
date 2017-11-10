@@ -6,6 +6,7 @@ Code for the paper:
 
 ## An example problem:
 ![Sample](obj/img/sample.png)
+* Correct answers are highlighted
 
 ## Dependencies
 * Python 2.7
