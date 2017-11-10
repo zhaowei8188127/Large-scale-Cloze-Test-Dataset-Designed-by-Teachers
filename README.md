@@ -2,11 +2,14 @@
 
 Code for the paper:
 
-Large-scale Cloze Test Dataset Designed by Teachers. Qizhe Xie*, Guokun Lai*, Zihang Dai and Eduard Hovy.
+[Large-scale Cloze Test Dataset Designed by Teachers](https://arxiv.org/pdf/1711.03225.pdf). Qizhe Xie*, Guokun Lai*, Zihang Dai and Eduard Hovy.
+
+## An example problem:
+![Sample](obj/img/sample.png?raw=true "Title")
 
 ## Dependencies
 * Python 2.7
-* Pytorch
+* latest Pytorch
 
 ## Usage
 * tar xzvf data.tar.gz
